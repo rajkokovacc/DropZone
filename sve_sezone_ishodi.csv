@@ -1,0 +1,421 @@
+tim,sezona,ispao
+Norwich,2004/05,1
+Southampton,2004/05,1
+Crystal Palace,2004/05,1
+West Brom,2004/05,0
+Charlton,2004/05,0
+Portsmouth,2004/05,0
+Fulham,2004/05,0
+Newcastle,2004/05,0
+Birmingham,2004/05,0
+Blackburn,2004/05,0
+Man City,2004/05,0
+Middlesbrough,2004/05,0
+Bolton,2004/05,0
+Tottenham,2004/05,0
+Aston Villa,2004/05,0
+Liverpool,2004/05,0
+Everton,2004/05,0
+Man United,2004/05,0
+Arsenal,2004/05,0
+Chelsea,2004/05,0
+Sunderland,2005/06,1
+West Brom,2005/06,1
+Birmingham,2005/06,1
+Portsmouth,2005/06,0
+Man City,2005/06,0
+Aston Villa,2005/06,0
+Middlesbrough,2005/06,0
+Charlton,2005/06,0
+Fulham,2005/06,0
+Everton,2005/06,0
+Wigan,2005/06,0
+West Ham,2005/06,0
+Bolton,2005/06,0
+Newcastle,2005/06,0
+Blackburn,2005/06,0
+Tottenham,2005/06,0
+Arsenal,2005/06,0
+Liverpool,2005/06,0
+Man United,2005/06,0
+Chelsea,2005/06,0
+Watford,2006/07,1
+Sheffield United,2006/07,1
+Charlton,2006/07,1
+Wigan,2006/07,0
+Fulham,2006/07,0
+West Ham,2006/07,0
+Man City,2006/07,0
+Newcastle,2006/07,0
+Middlesbrough,2006/07,0
+Aston Villa,2006/07,0
+Blackburn,2006/07,0
+Portsmouth,2006/07,0
+Reading,2006/07,0
+Bolton,2006/07,0
+Everton,2006/07,0
+Tottenham,2006/07,0
+Liverpool,2006/07,0
+Arsenal,2006/07,0
+Chelsea,2006/07,0
+Man United,2006/07,0
+Derby,2007/08,1
+Birmingham,2007/08,1
+Reading,2007/08,1
+Fulham,2007/08,0
+Bolton,2007/08,0
+Sunderland,2007/08,0
+Wigan,2007/08,0
+Middlesbrough,2007/08,0
+Newcastle,2007/08,0
+Tottenham,2007/08,0
+West Ham,2007/08,0
+Man City,2007/08,0
+Portsmouth,2007/08,0
+Blackburn,2007/08,0
+Aston Villa,2007/08,0
+Everton,2007/08,0
+Liverpool,2007/08,0
+Arsenal,2007/08,0
+Chelsea,2007/08,0
+Man United,2007/08,0
+West Brom,2008/09,1
+Newcastle,2008/09,1
+Middlesbrough,2008/09,1
+Hull,2008/09,0
+Sunderland,2008/09,0
+Portsmouth,2008/09,0
+Bolton,2008/09,0
+Blackburn,2008/09,0
+Wigan,2008/09,0
+Stoke,2008/09,0
+Man City,2008/09,0
+West Ham,2008/09,0
+Tottenham,2008/09,0
+Fulham,2008/09,0
+Aston Villa,2008/09,0
+Everton,2008/09,0
+Arsenal,2008/09,0
+Chelsea,2008/09,0
+Liverpool,2008/09,0
+Man United,2008/09,0
+Arsenal,2009/10,0
+Aston Villa,2009/10,0
+Birmingham,2009/10,0
+Blackburn,2009/10,0
+Bolton,2009/10,0
+Burnley,2009/10,1
+Chelsea,2009/10,0
+Everton,2009/10,0
+Fulham,2009/10,0
+Hull,2009/10,1
+Liverpool,2009/10,0
+Man City,2009/10,0
+Man United,2009/10,0
+Portsmouth,2009/10,1
+Stoke,2009/10,0
+Sunderland,2009/10,0
+Tottenham,2009/10,0
+West Ham,2009/10,0
+Wigan,2009/10,0
+Wolves,2009/10,0
+Arsenal,2010/11,0
+Aston Villa,2010/11,0
+Birmingham,2010/11,1
+Blackburn,2010/11,0
+Blackpool,2010/11,1
+Bolton,2010/11,0
+Chelsea,2010/11,0
+Everton,2010/11,0
+Fulham,2010/11,0
+Liverpool,2010/11,0
+Man City,2010/11,0
+Man United,2010/11,0
+Newcastle,2010/11,0
+Stoke,2010/11,0
+Sunderland,2010/11,0
+Tottenham,2010/11,0
+West Brom,2010/11,0
+West Ham,2010/11,1
+Wigan,2010/11,0
+Wolves,2010/11,0
+Arsenal,2011/12,0
+Aston Villa,2011/12,0
+Blackburn,2011/12,1
+Bolton,2011/12,1
+Chelsea,2011/12,0
+Everton,2011/12,0
+Fulham,2011/12,0
+Liverpool,2011/12,0
+Man City,2011/12,0
+Man United,2011/12,0
+Newcastle,2011/12,0
+Norwich,2011/12,0
+QPR,2011/12,0
+Stoke,2011/12,0
+Sunderland,2011/12,0
+Swansea,2011/12,0
+Tottenham,2011/12,0
+West Brom,2011/12,0
+Wigan,2011/12,0
+Wolves,2011/12,1
+Arsenal,2012/13,0
+Aston Villa,2012/13,0
+Chelsea,2012/13,0
+Everton,2012/13,0
+Fulham,2012/13,0
+Liverpool,2012/13,0
+Man City,2012/13,0
+Man United,2012/13,0
+Newcastle,2012/13,0
+Norwich,2012/13,0
+QPR,2012/13,1
+Reading,2012/13,1
+Southampton,2012/13,0
+Stoke,2012/13,0
+Sunderland,2012/13,0
+Swansea,2012/13,0
+Tottenham,2012/13,0
+West Brom,2012/13,0
+West Ham,2012/13,0
+Wigan,2012/13,1
+Arsenal,2013/14,0
+Aston Villa,2013/14,0
+Cardiff,2013/14,1
+Chelsea,2013/14,0
+Crystal Palace,2013/14,0
+Everton,2013/14,0
+Fulham,2013/14,1
+Hull,2013/14,0
+Liverpool,2013/14,0
+Man City,2013/14,0
+Man United,2013/14,0
+Newcastle,2013/14,0
+Norwich,2013/14,1
+Southampton,2013/14,0
+Stoke,2013/14,0
+Sunderland,2013/14,0
+Swansea,2013/14,0
+Tottenham,2013/14,0
+West Brom,2013/14,0
+West Ham,2013/14,0
+Arsenal,2014/15,0
+Aston Villa,2014/15,0
+Burnley,2014/15,1
+Chelsea,2014/15,0
+Crystal Palace,2014/15,0
+Everton,2014/15,0
+Hull,2014/15,1
+Leicester,2014/15,0
+Liverpool,2014/15,0
+Man City,2014/15,0
+Man United,2014/15,0
+Newcastle,2014/15,0
+QPR,2014/15,1
+Southampton,2014/15,0
+Stoke,2014/15,0
+Sunderland,2014/15,0
+Swansea,2014/15,0
+Tottenham,2014/15,0
+West Brom,2014/15,0
+West Ham,2014/15,0
+Arsenal,2015/16,0
+Aston Villa,2015/16,1
+Bournemouth,2015/16,0
+Chelsea,2015/16,0
+Crystal Palace,2015/16,0
+Everton,2015/16,0
+Leicester,2015/16,0
+Liverpool,2015/16,0
+Man City,2015/16,0
+Man United,2015/16,0
+Newcastle,2015/16,1
+Norwich,2015/16,1
+Southampton,2015/16,0
+Stoke,2015/16,0
+Sunderland,2015/16,0
+Swansea,2015/16,0
+Tottenham,2015/16,0
+Watford,2015/16,0
+West Brom,2015/16,0
+West Ham,2015/16,0
+Arsenal,2016/17,0
+Bournemouth,2016/17,0
+Burnley,2016/17,0
+Chelsea,2016/17,0
+Crystal Palace,2016/17,0
+Everton,2016/17,0
+Hull,2016/17,1
+Leicester,2016/17,0
+Liverpool,2016/17,0
+Man City,2016/17,0
+Man United,2016/17,0
+Middlesbrough,2016/17,1
+Southampton,2016/17,0
+Stoke,2016/17,0
+Sunderland,2016/17,1
+Swansea,2016/17,0
+Tottenham,2016/17,0
+Watford,2016/17,0
+West Brom,2016/17,0
+West Ham,2016/17,0
+Arsenal,2017/18,0
+Bournemouth,2017/18,0
+Brighton,2017/18,0
+Burnley,2017/18,0
+Chelsea,2017/18,0
+Crystal Palace,2017/18,0
+Everton,2017/18,0
+Huddersfield,2017/18,0
+Leicester,2017/18,0
+Liverpool,2017/18,0
+Man City,2017/18,0
+Man United,2017/18,0
+Newcastle,2017/18,0
+Southampton,2017/18,0
+Stoke,2017/18,1
+Swansea,2017/18,1
+Tottenham,2017/18,0
+Watford,2017/18,0
+West Brom,2017/18,1
+West Ham,2017/18,0
+Arsenal,2018/19,0
+Bournemouth,2018/19,0
+Brighton,2018/19,0
+Burnley,2018/19,0
+Cardiff,2018/19,1
+Chelsea,2018/19,0
+Crystal Palace,2018/19,0
+Everton,2018/19,0
+Fulham,2018/19,1
+Huddersfield,2018/19,1
+Leicester,2018/19,0
+Liverpool,2018/19,0
+Man City,2018/19,0
+Man United,2018/19,0
+Newcastle,2018/19,0
+Southampton,2018/19,0
+Tottenham,2018/19,0
+Watford,2018/19,0
+West Ham,2018/19,0
+Wolves,2018/19,0
+Arsenal,2019/20,0
+Aston Villa,2019/20,0
+Bournemouth,2019/20,1
+Brighton,2019/20,0
+Burnley,2019/20,0
+Chelsea,2019/20,0
+Crystal Palace,2019/20,0
+Everton,2019/20,0
+Leicester,2019/20,0
+Liverpool,2019/20,0
+Man City,2019/20,0
+Man United,2019/20,0
+Newcastle,2019/20,0
+Norwich,2019/20,1
+Sheffield United,2019/20,0
+Southampton,2019/20,0
+Tottenham,2019/20,0
+Watford,2019/20,1
+West Ham,2019/20,0
+Wolves,2019/20,0
+Arsenal,2020/21,0
+Aston Villa,2020/21,0
+Brighton,2020/21,0
+Burnley,2020/21,0
+Chelsea,2020/21,0
+Crystal Palace,2020/21,0
+Everton,2020/21,0
+Fulham,2020/21,1
+Leeds,2020/21,0
+Leicester,2020/21,0
+Liverpool,2020/21,0
+Man City,2020/21,0
+Man United,2020/21,0
+Newcastle,2020/21,0
+Sheffield United,2020/21,1
+Southampton,2020/21,0
+Tottenham,2020/21,0
+West Brom,2020/21,1
+West Ham,2020/21,0
+Wolves,2020/21,0
+Arsenal,2021/22,0
+Aston Villa,2021/22,0
+Brentford,2021/22,0
+Brighton,2021/22,0
+Burnley,2021/22,1
+Chelsea,2021/22,0
+Crystal Palace,2021/22,0
+Everton,2021/22,0
+Leeds,2021/22,0
+Leicester,2021/22,0
+Liverpool,2021/22,0
+Man City,2021/22,0
+Man United,2021/22,0
+Newcastle,2021/22,0
+Norwich,2021/22,1
+Southampton,2021/22,0
+Tottenham,2021/22,0
+Watford,2021/22,1
+West Ham,2021/22,0
+Wolves,2021/22,0
+Arsenal,2022/23,0
+Aston Villa,2022/23,0
+Bournemouth,2022/23,0
+Brentford,2022/23,0
+Brighton,2022/23,0
+Chelsea,2022/23,0
+Crystal Palace,2022/23,0
+Everton,2022/23,0
+Fulham,2022/23,0
+Leeds,2022/23,1
+Leicester,2022/23,1
+Liverpool,2022/23,0
+Man City,2022/23,0
+Man United,2022/23,0
+Newcastle,2022/23,0
+Nott'm Forest,2022/23,0
+Southampton,2022/23,1
+Tottenham,2022/23,0
+West Ham,2022/23,0
+Wolves,2022/23,0
+Arsenal,2023/24,0
+Aston Villa,2023/24,0
+Bournemouth,2023/24,0
+Brentford,2023/24,0
+Brighton,2023/24,0
+Burnley,2023/24,1
+Chelsea,2023/24,0
+Crystal Palace,2023/24,0
+Everton,2023/24,0
+Fulham,2023/24,0
+Liverpool,2023/24,0
+Luton,2023/24,1
+Man City,2023/24,0
+Man United,2023/24,0
+Newcastle,2023/24,0
+Nott'm Forest,2023/24,0
+Sheffield United,2023/24,1
+Tottenham,2023/24,0
+West Ham,2023/24,0
+Wolves,2023/24,0
+Arsenal,2024/25,0
+Aston Villa,2024/25,0
+Bournemouth,2024/25,0
+Brentford,2024/25,0
+Brighton,2024/25,0
+Chelsea,2024/25,0
+Crystal Palace,2024/25,0
+Everton,2024/25,0
+Fulham,2024/25,0
+Ipswich,2024/25,1
+Leicester,2024/25,1
+Liverpool,2024/25,0
+Man City,2024/25,0
+Man United,2024/25,0
+Newcastle,2024/25,0
+Nott'm Forest,2024/25,0
+Southampton,2024/25,1
+Tottenham,2024/25,0
+West Ham,2024/25,0
+Wolves,2024/25,0
